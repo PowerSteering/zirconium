@@ -1,7 +1,11 @@
 Zirconium - Graphite Collector for Windows Servers
 Version 0.11 3/1/2013 lwintringham@psteering.com
 
-WARNING: This was written by a Linux Engineer and Perl programmer who learned powershell and Windows just for this application. Input, feedback, improvements and contributions are desired.
+#### WARNING! ####
+
+This was written by a Linux Engineer and Perl programmer who learned powershell and Windows just for this application. Input, feedback, improvements and contributions are desired.
+
+#################
 
 LICENSE
   Copyright (C) 2013  Lee Wintringham, PowerSteering Software
