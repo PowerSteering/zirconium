@@ -42,8 +42,8 @@
 # remote host and port - Graphite Server
 # log - Log File
 
-$path = "cambridge.windows."	
-$remoteHost = "graphite.cinteractive.com"
+$path = "servers.windows."	
+$remoteHost = "graphite.yourdomain.com"
 $port = 2003
 $log = "C:\zirconium\zirconiumLog.txt"
 
