@@ -54,9 +54,11 @@ UNINSTALL
   2. Delete directory c:\zirconium	 
  
 CONFIGURATION
-  path - TLD for Graphite Data
-  remote host and port - Graphite Server
-  log - Log File
+  1. Open zirconium.ps1 for editing.
+  2. Set the following variables:
+    path - TLD for Graphite Data
+    remote host and port - Graphite Server
+    log - Log File
 
 TODO 
   - Fix Logging
